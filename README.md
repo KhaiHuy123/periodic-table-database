@@ -1,4 +1,4 @@
 # periodic-table-database
 [certificate] - [freeCodeCamp] - [Relational Database]
 
-![image](https://github.com/user-attachments/assets/36b8d9cb-73c1-4ba7-9f6b-64603853add1)
+![image](https://github.com/user-attachments/assets/4da5da7c-7e93-4584-971e-d4bfeea5ed89)

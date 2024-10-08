@@ -1,2 +1,2 @@
 # Periodic-Table-Database
-### [certificate] - [freeCodeCamp] - [Relational Database]
+### [certificate] - [freeCodeCamp] - [relational database]
